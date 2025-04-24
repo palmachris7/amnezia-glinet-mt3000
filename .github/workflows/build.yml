@@ -13,7 +13,7 @@ env:
   owr_branch: "openwrt-24.10"
   owr_commit: "ebe7c5f1a3"
   gl_version: "4.7.0"
-  gl_vermagic: "5f888a243508bd63116c3c6987914d47-r1"
+  gl_vermagic: "5f888a243508bd63116c3c6987914d47"
 
 jobs:
   build:
